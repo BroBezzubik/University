@@ -1,0 +1,96 @@
+\documentclass[a4paper, 14pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{pgfplots}
+\usepackage{hyperref}
+\usepackage{subfiles}
+\usepackage[shortlabels]{enumitem}
+\usepackage{titlesec}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+
+
+\titleformat*{\section}{\LARGE\bfseries}
+\titleformat*{\subsection}{\Large\bfseries}
+\titleformat*{\subsubsection}{\large\bfseries}
+\titleformat*{\paragraph}{\large\bfseries}
+\titleformat*{\subparagraph}{\large\bfseries}
+
+
+\usepackage{biblatex}[
+backend = biber,
+style=alphabetic,
+sorting=ynt]
+\addbibresource{./library/document}
+
+% Настройка Листинга
+\usepackage{listings}
+\lstset{
+	language=Python,
+	numbers=left,
+	frame=single,
+	breaklines=true,
+	breakatwhitespace=true,
+	title=lstname,
+	tabsize=2,
+	framexrightmargin=20mm
+}
+
+\DeclareUnicodeCharacter{03BB}{\ensuremath{\lambda}}
+\DeclareUnicodeCharacter{03B7}{\ensuremath{\eta}}
+\DeclareUnicodeCharacter{03C4}{\ensuremath{\tau}}
+\DeclareUnicodeCharacter{03C1}{\ensuremath{\rho}}
+
+\begin{document}
+	\begin{titlepage}
+		\begin{center}
+			\begin{LARGE}
+				Лабараторная работа №1
+			\end{LARGE}
+			
+			\begin{Large}
+				\vspace{5cm}
+				Тема: Программная реализация приближенного аналитического метода и простейших численных алгоритмов  первого порядка точности при решении  задачи Коши для ОДУ.
+				
+				\vspace{5cm}
+				Студент: Барсуков Н.М.
+				
+				Группа: ИУ7-66Б
+				
+				Оценка (баллы):
+				
+				Преподаватель: Градов В.М.
+			\end{Large}
+		\end{center}
+	\end{titlepage}
+
+	\newpage
+	\tableofcontents
+	
+	\newpage
+	\section*{Введение}
+	
+	\newpage
+	\section{Аналитическая часть}
+	
+	\newpage
+	\section{Листинг}
+	
+	\newpage
+	\section{Результат работы программы}
+	
+	\newpage
+	\section{Ответы на вопросы}
+	
+	\newpage
+	\section{Заключение}
+	
+	\newpage
+	\section{Список литературы}
+	
+
+\end{document}
