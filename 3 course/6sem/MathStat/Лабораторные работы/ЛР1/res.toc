@@ -1,0 +1,6 @@
+\babel@toc {russian}{}
+\contentsline {section}{Введение}{2}%
+\contentsline {section}{Теоретическая часть}{4}%
+\contentsline {section}{Листинг программы}{6}%
+\contentsline {section}{Результаты расчётов для выборки из индивидуального варианта}{9}%
+\contentsline {section}{Заключение}{12}%

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<source_data>
+    <radius_tube>0.35</radius_tube>
+    <condenser_capacity>150e-6</condenser_capacity>
+    <inductance>60e-6</inductance>
+    <resistance>0.5</resistance>
+    <init_voltaage>1500</init_voltaage>
+    <amperage>1.5</amperage>
+    <distance_elec>12</distance_elec>
+    <tau_stop>200e-6</tau_stop>
+    <tau_step>1e-6</tau_step>
+    <newton_pow>1</newton_pow>
+</source_data>
