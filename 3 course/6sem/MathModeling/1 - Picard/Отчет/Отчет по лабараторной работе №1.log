@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.14)  22 SEP 2020 19:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.14)  22 SEP 2020 21:16
 entering extended mode
 **"./Отчет по лабараторной работе №1.tex"
 ("Отчет по лабараторной работе №1.tex"
@@ -1021,38 +1021,107 @@ Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) [1
+
+{C:/Users/Barsi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
+81.
+
+(C:\Users\Barsi\AppData\Roaming\MiKTeX\2.9\tex/latex/cyrillic\t2acmss.fd
+File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
+("Отчет по лабараторной работе №1.toc"
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
 
-! LaTeX Error: File `head' not found.
+(E:\soft\Miktex\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.57 	\includegraphics[width=1\linewidth]{head}
-                                               
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+(E:\soft\Miktex\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write4
+\openout4 = `"Отчет по лабараторной работе №1.toc"'.
 
-! I can't write on file `"Отчет по лабараторной работе
- №1.pdf"'.
-Please type another file name for output
-! Emergency stop.
-\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
-                                                  
-l.78 \end{titlepage}
-                    
-*** (job aborted, file error in nonstop mode)
+ [2] [3]
+Overfull \hbox (9.43314pt too wide) detected at line 152
+[]
+ []
 
- 
+
+Overfull \hbox (9.43314pt too wide) detected at line 152
+[]
+ []
+
+
+Overfull \hbox (9.43314pt too wide) detected at line 152
+[]
+ []
+
+[4] [5] (E:\soft\Miktex\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+230.
+
+(C:\Users\Barsi\AppData\Roaming\MiKTeX\2.9\tex/latex/cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+[6] [7] [8]
+<1.png, id=47, 1202.24156pt x 663.98062pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 352.
+(pdftex.def)             Requested size: 448.13095pt x 247.49265pt.
+ [9]
+<2.png, id=51, 1202.24156pt x 663.98062pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 359.
+(pdftex.def)             Requested size: 448.13095pt x 247.49265pt.
+<3.png, id=52, 1197.72469pt x 529.22719pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 366.
+(pdftex.def)             Requested size: 448.13095pt x 198.00748pt.
+ [10 <./1.png> <./2.png>] [11 <./3.png>]
+<4.png, id=62, 818.30719pt x 61.73062pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 391.
+(pdftex.def)             Requested size: 448.13095pt x 33.80592pt.
+ [12 <./4.png>]
+("Отчет по лабараторной работе №1.aux") ) 
 Here is how much of TeX's memory you used:
- 29384 strings out of 480934
- 699183 string characters out of 2915757
- 1166442 words of memory out of 3000000
- 44784 multiletter control sequences out of 15000+200000
- 534243 words of font info for 27 fonts, out of 3000000 for 9000
+ 29779 strings out of 480934
+ 706017 string characters out of 2915757
+ 1428117 words of memory out of 3000000
+ 45141 multiletter control sequences out of 15000+200000
+ 545750 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,6n,103p,10184b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 73i,17n,103p,10184b,1087s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\
+Barsi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1200.pk> <C
+:\Users\Barsi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
+200.pk> <C:\Users\Barsi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi6
+00\larm1000.pk> <C:\Users\Barsi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-
+t2a/dpi600\lasx1440.pk> <C:\Users\Barsi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
+r/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Barsi\AppData\Local\MiKTeX\2.9\fonts/
+pk/ljfour/lh/lh-t2a/dpi600\lasx1200.pk> <C:\Users\Barsi\AppData\Local\MiKTeX\2.
+9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasx1728.pk> <C:\Users\Barsi\AppData\Local\M
+iKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Barsi\AppData
+\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk><E:/soft/Miktex/
+fonts/type1/public/amsfonts/cm/cmex10.pfb><E:/soft/Miktex/fonts/type1/public/am
+sfonts/cm/cmmi12.pfb><E:/soft/Miktex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+E:/soft/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/soft/Miktex/fonts/t
+ype1/public/amsfonts/cm/cmr6.pfb><E:/soft/Miktex/fonts/type1/public/amsfonts/cm
+/cmr8.pfb><E:/soft/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/soft/Mi
+ktex/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on "Отчет по лабараторной работе №1.p
+df" (12 pages, 373313 bytes).
+PDF statistics:
+ 468 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+
