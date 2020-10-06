@@ -1,0 +1,143 @@
+#include "filetree.h"
+#include "error.h"
+
+#include <string.h>
+
+//файл, не являющийся каталогом; каталог; не доступный для чтения каталог; информацию невозможно получить с помощью stat
+
+
+static int my_parser(const char* pathname, const struct stat *filestat, enum filetype type);
+
+static char *fullpath; // полный путь к обрабатываемому файлу
+static long	nreg = 0,
+			ndir = 0,
+			nblk = 0,
+			nchr = 0,
+			nfifo = 0,
+			nslink = 0,
+			nsock = 0;
+
+void get_ftw_results(long *r_nreg, long *r_ndir, long *r_nblk, long *r_nchr, long *r_nfifo, long *r_nslink, long *r_nsock)
+{
+	*r_nreg = nreg;
+	*r_ndir = ndir;
+	*r_nblk = nblk;
+	*r_nchr = nchr;
+	*r_nfifo = nfifo;
+	*r_nslink = nslink;
+	*r_nsock = nsock;
+}
+
+
+/*
+Обход дерева каталогов, начиная с fullpath. Если fullpath не является каталогом, для него вызывается lstat(), func() и затем выполняется возврат.
+Для каталогов производится рекурсивный вызов функции.
+Возвращает результат функции обработки.
+*/
+static int dopath(t_parseFunc parse)
+{
+	struct stat	filestat;
+	struct dirent *dir_entry; //элемент каталога
+	DIR *dir_stream;
+	int	ret;
+	char *ptr;
+	
+	//анализируем файл по текущему пути
+	if ( lstat(fullpath, &filestat) < 0 ) //ошибка lstat
+		return parse(fullpath, &filestat, FileUnknown);
+		
+	if ( S_ISDIR(filestat.st_mode) == 0 ) //не каталог
+		return parse(fullpath, &filestat, FileCommon);
+
+	//дошли до сюда - значит файл является каталогом
+	//обработаем его функцией-обработчиком
+	ret = parse(fullpath, &filestat, FileDir);
+	if ( ret != 0)
+		return ret;
+	
+	//добавим в конец пути к файлу слэш, чтобы можно было обработать все содержимое каталога
+	ptr = fullpath + strlen(fullpath);
+	*(ptr++) = '/';
+	*ptr = 0;
+	
+	dir_stream = opendir(fullpath);
+	if ( dir_stream == NULL ) // каталог недоступен для чтения
+		return parse(fullpath, &filestat, FileDirNR);
+	
+	//обработаем все содержимое каталога
+	while ( (dir_entry = readdir(dir_stream)) != NULL ) 
+	{
+		//пропускаем каталоги "текущий каталог" и "переход к родительскому"
+		if (	strcmp(dir_entry->d_name, ".") == 0
+			|| strcmp(dir_entry->d_name, "..") == 0)
+			continue;
+		
+		//допишем к пути имя обрабатываемого файла в каталоге
+		strcpy(ptr, dir_entry->d_name);
+		
+		//обработаем файл по этому пути
+		ret = dopath(parse);
+		
+		if (ret != 0)
+			break;
+	}
+	
+	//ptr всё это время не менялся и указывал на символ после конца пути к каталогу
+	//         v
+	//usr/test/somefile.txt
+	ptr[-1] = 0; //обрубаем строку
+	
+	if (closedir(dir_stream) < 0)
+		err_ret("невозможно закрыть каталог %s", fullpath);
+		
+	return ret;
+}
+
+
+static int my_parser(const char *pathname, const struct stat *filestat, enum filetype type)
+{
+	switch (type) 
+	{
+		case FileCommon:
+			switch (filestat->st_mode & S_IFMT) 
+			{
+				case S_IFREG: nreg++; break;
+				case S_IFBLK: nblk++; break;
+				case S_IFCHR: nchr++; break;
+				case S_IFIFO: nfifo++; break;
+				case S_IFLNK: nslink++; break;
+				case S_IFSOCK: nsock++; break;
+				case S_IFDIR: //каталоги должны иметь тип = FileDir
+					err_dump("признак S_IFDIR для %s", pathname);
+			}
+			break;
+		case FileDir:
+			ndir++;
+			break;
+		case FileDirNR:
+			err_ret("закрыт доступ к каталогу %s", pathname);
+			break;
+		case FileUnknown:
+			err_ret("ошибка вызова функции stat для %s", pathname);
+			break;
+		default:
+			err_dump("неизвестный тип %d для файла %s", type, pathname);
+	}
+	return 0;
+}
+
+
+/*
+Обойти дерево каталогов, начиная с каталога "pathname".
+Пользовательская функция func() вызывается для каждого встреченного файла.
+Возвращает результат функции обработки.
+*/
+int myftw(char *pathname)
+{
+	size_t len;
+	
+	fullpath = path_alloc(&len); // выделить память для PATH_MAX+1 байт
+	strncpy(fullpath, pathname, len); // защита от переполнения буфера
+	fullpath[len - 1] = 0;
+	return dopath(my_parser);
+}
