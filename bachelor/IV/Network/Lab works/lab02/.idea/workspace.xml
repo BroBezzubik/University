@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ef6b62f-2738-4c2e-85f6-573c2fbce326" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб1/lab_01.fas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб1/lab_01.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб1/lab_01.lisp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб1/Отчет.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб1/Отчет.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб2/lab_02.lisp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб2/Отчет.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб2/Отчет.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб3/Отчет.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб3/Отчет.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб4/Отчет.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб4/Отчет.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб5/Отчет.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/LISP/Лаб5/Отчет.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб11/Lab_11.bk1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб11/Lab_11.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб11/Lab_11.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб11/Lab_11.vpr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб11/Лаб11.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб11/Лаб11_д.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб11/Отчет.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб11/Отчет.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/main.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/main.bbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/main.bcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/main.blg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/main.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/main.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/main.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/main.run.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/main.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/main.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/main.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/section/Request.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/section/Task.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/section/Variables.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/section/end.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/section/resultofprogramm.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/src/Снимок 2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Report/src/Снимок.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/К_Лаб12.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Код/Lab_12.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб12/Лаб12.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/15-04-2020-Lab13.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/Exe/prolog.err" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/Obj/GOAL$000.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/Obj/GOAL$000.MAP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/Obj/goal$000.BAK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/Obj/goal$000.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/Obj/goal$000.SYM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/Obj/goal$000.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/Obj/prolog.err" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/Report/main.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/lab13.BAK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/lab13.bk1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/lab13.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/lab13.pre" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/lab13.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/lab13.vpr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб13/К 13 л р.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб14/15-04-2020-Lab14.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/FILP/PROLOG/Лаб14/К 14 л р.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/.idea/MathModeling.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Задание/27-03-2020-Задание_на_лаб_раб_№1 (2).doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/listings.inc.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/Безымянный.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/Отчет по лабараторной работе №1.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/Отчет по лабараторной работе №1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/Отчет по лабараторной работе №1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/Отчет по лабараторной работе №1.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/Отчет по лабараторной работе №1.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/Отчет по лабараторной работе №1.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Отчет/Отчёт 1 Моделирование.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Программа/calc_coeffs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Программа/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Программа/picard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/1 - Picard/Программа/polynomial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/ip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Задание/27-03-2020-Задание_на_лаб_раб_№2.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Отчет/head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Отчет/Отчет.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Отчет/Отчет.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Отчет/Отчет.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Отчет/Отчет.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Отчет/Отчет.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Отчет/Отчет.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Программа/data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Программа/get_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Программа/interpolation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Программа/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Программа/runge_kutt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/2 - Runge Kutta/Программа/tables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/3.4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/3nd_task_koshi2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Kalitkin_N_N__Alshina_E_A__Koryakin_P_V_-_Chislennye_metody_Kniga_1_Chislenny_analiz_Universitetskiy_uchebnik_-_2013.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Kalitkin_N_N__Alshina_E_A__Koryakin_P_V_-_Chislennye_metody_Kniga_2_Metody_matematicheskoy_fiziki_Universitetskiy_uchebnik.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/chislmet2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/1+/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/1+/приближенный аналитический метод Пикара (Автосохраненный).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/1+/приближенный аналитический метод Пикара.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/2+/I_To_m.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/2+/runge-kutt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/2+/Моделирование 2 отчет.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/3+/ИУ7-65б Лабораторная 3 Мирзоян С.А.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/3+/лр3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/3+/мод3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/4+/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/4+/lab4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/4+/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/4+/plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/4+/print_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/4+/progonka.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/4+/tardYindl.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/4+/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/4+/лабораторная работа №4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/4+/лабораторная работа №4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/5+/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/5+/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/5+/print_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/5+/progonka.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/5+/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/5+/Лабораторная работа №5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/5+/ФАКУЛЬТЕТ.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/bestreferat-114437.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/Gradov.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/Nailuchshaya_raznostnaya_skhema_dlya_uravnenia_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/matmod.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/matmod.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/10.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/11.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/12.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/13.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/14.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/15.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/16.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/17.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/18.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/19.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/20.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/21.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/22.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/23.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/24.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/37.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/38_1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/38_2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/38_3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/38_4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/38_5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/38_6.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/39_1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/39_2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/39_3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/39_4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/40.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/41.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/6.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/7.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/8.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/pics/9.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/прогонка_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/прогонка_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/прогонка_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/прогонка_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/прогонка_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Ботва/сплайны.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/04-05-2020-Лекция__13_Модели_ДУЧП_Методы_постр_разност_схем_Разност_аппрроксим.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/04-05-2020-Лекция__14_Модели_ДУЧП_Методы_постр_разност_схем_Интегро_интерп.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/18-05-2020-Лекция__15_Модели_ДУЧП_Многомерные_уравнения.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/24-04-2020-Лекции__9_12_Модели_ДУЧП_Классиф_понятия_аппрок_устойч_сходим.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/26-03-2020-Лекция_№7_Модели_ОДУ_краевая_задача.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/30-03-2020-Лекция_№8_Модели_ОДУ_краевая_задача.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/Gradov.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/voprosy_ekzamena_2020.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/~$prosy_ekzamena_2020.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/Билеты/1+/ekzamen.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/Билеты/1+/mod_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/Билеты/10+/Sushina-iu7-61b-ekzamen.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/Билеты/2+/Ekzamen_Modelirovanie_Zeynalov_Z_G_IU7-61B.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/Билеты/3+/mod_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/Билеты/4+/Билет 4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/Билеты/4+/ответ градова.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/Билеты/4+/решение билета №4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/Билеты/7+/билет 7 (ч2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/Моделирование материалы/Билеты/7+/билет 7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/кк/IMG_20180623_010259_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/кк/IMG_20180623_010323_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/кк/photo-1529705153871.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/кк/photo-1529705182977.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/AnnaAfanas/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/AnnaAfanas/lab1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/AnnaAfanas/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/MikeGus/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/MikeGus/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/MikeGus/differential/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/MikeGus/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 1/picard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 1/polynomial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 2/data_getters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 2/methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 3/data_getter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 3/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 3/method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 3/plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 5/T.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 5/data_getter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 5/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/Lab 5/method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/2_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/l2_scheme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/l3_scheme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/assets/l4_example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Panda-Lewandowski/yKQVgV2nhjI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Shilov/lab5/interpolation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/Shilov/lab5/lab5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/gofixyourself/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/gofixyourself/Equations/differential_equations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/gofixyourself/Finite_Difference_Scheme/Polynomial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/gofixyourself/Finite_Difference_Scheme/Thomas_algorithm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/gofixyourself/Finite_Difference_Scheme/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/gofixyourself/Finite_Difference_Scheme/save_result.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/gofixyourself/Physics_Lab/discharge_circuit.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/gofixyourself/Rod_temperature/Rod.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/gofixyourself/Rod_temperature/Rod_heating/rod.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/gofixyourself/Rod_temperature/Rod_heating/wolfram.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/gofixyourself/Rod_temperature/Rod_heating/wolfram_stat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/gofixyourself/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/Modeling_Lab2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/Modeling_lab3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/Modeling_lab4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/2_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/l2_scheme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/l3_scheme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/assets/l4_example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Моделирование/лабы/ботва/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Ответы на вопросы по Лаб.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Ответы на вопросы по Лаб.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Ответы на вопросы по Лаб.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Ответы на вопросы по Лаб.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Ответы на вопросы по Лаб.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Учебники и лекции/3nd_task_koshi2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Учебники и лекции/Gradov.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Учебники и лекции/Gradov_V_M_Kompyuternye_tekhnologii_v_praktike_matematicheskogo_modelirovania_ch_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Учебники и лекции/Kalitkin_N_N__Alshina_E_A__Koryakin_P_V_-_Chislennye_metody_Kniga_1_Chislenny_analiz_Universitetskiy_uchebnik_-_2013.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Учебники и лекции/Kalitkin_N_N__Alshina_E_A__Koryakin_P_V_-_Chislennye_metody_Kniga_2_Metody_matematicheskoy_fiziki_Universitetskiy_uchebnik.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Учебники и лекции/Modelirovanie1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Учебники и лекции/Nailuchshaya_raznostnaya_skhema_dlya_uravnenia_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Учебники и лекции/matmod.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Учебники и лекции/voprosy_ekzamena_2020_2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathModeling/Учебники и лекции/~$prosy_ekzamena_2020_2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Домашние задания/IU7_66B_DZ2_Barsukov_N_M_zadachi{1}.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Домашние задания/IU7_66b_Dz1_Barsukov_N_M_zadachi(1_2_3_4).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1.rar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/123.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/lab1.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/listings.inc.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/listings.inc.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/res.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/res.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/res.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/res.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/res.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/ИУ7-66б_Барсуков Н.М._ЛР1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР1/ЛР1 Шибанова.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2.rar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/Kieq74tmiQ0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/figure1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/figure2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/lab2.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/listings.inc.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/listings.inc.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/qxTXxYpk85E.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/res.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/res.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/res.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/res.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/res.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/ИУ7-66б_Барсуков Н.М._ЛР2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Лабораторные работы/ЛР2/титульник.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Рубежные контроли/06-05-2020-Шпаргалка.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Рубежные контроли/IU7_6-y_sem_MS_RK1_bilety.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Рубежные контроли/IU7_6-y_sem__MS_RK1_bilety_perepis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Учебные материалы/03-05-2020-Занятие_4_Интервальные_оценки (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Учебные материалы/03-05-2020-Занятие_4_Интервальные_оценки.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Учебные материалы/03-05-2020-Лекция_5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Учебные материалы/06-05-2020-РК1_Билет_0.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Учебные материалы/06-05-2020-Шпаргалка.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Учебные материалы/08-05-2020-Модуль_2._Проверка_стат._гипотез__Волков_И.К._.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Учебные материалы/13-04-2020-Занятие-3.-Точечные-оценки (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Учебные материалы/13-04-2020-Занятие-3.-Точечные-оценки (2).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Учебные материалы/13-04-2020-Занятие-3.-Точечные-оценки.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Учебные материалы/20-04-2020-Лекции_3_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Учебные материалы/22-05-2020-Мат._стат.__ИУ7__6_й_сем.__ДЗ2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/MathStat/Учебные материалы/39682220.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Барсуко Н.М Стереотипы.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Барсуко Н.М Стереотипы.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Барсуков Н.М. МОДУЛЬ 2. РК. ОМО.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Барсуков Н.М. МОДУЛЬ 2. РК. ОМО.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Барсуков Н.М. Межкультуроное общение.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Барсуков Н.М. Межкультуроное общение.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Барсуков Н.М. Публичная коммуникация..docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Барсуков Н.М. Публичная коммуникация..pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Барсуков Н.М. Словарь Телодвижений.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Задание к лекции 4. ОМО.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Задание к семинару. 8-я неделя (6-7.04) (ОМО).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Конспект лекций..docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Лекция 4. ОМО.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Лекция 5. ОМО.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Манипуляция.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Манипуляция.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Межкультурная коммуникация.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Done/Ответы на вопросы к лекции 5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Нужно сделать/Задание к семинару КОММУНИКАТИВНАЯ ЛИЧНОСТЬ.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OMO/Нужно сделать/Лекция 6. ОМО и Задание к ней..docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Kernel_tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Lab1/Daemon.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Lab1/Безымянный.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Lab1/Отчет лабараторная работа №1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Lab1/Отчет лабараторная работа №1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Lab2/Отчет лабараторная работа №2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Lab2/Отчет лабараторная работа №2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Lab_rabota3_open__-_kopia.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Laboratornaya_rabota_Zagruzhaemye_moduli_yadra.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Laboratornaya_rabota_Zagruzhaemye_moduli_yadra.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Pravila_demon_Stiven_-_kopia.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Razrabotka_moduley_yadra_Linux.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/Voprosy_dlya_samoproverki.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/funk_demona_-_kopia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Лабараторные работы/lab_Unix_dir_file15.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Материалы/UNIX_Professionalnoe_programmirovanie_3-e_izd_2018.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Материалы/UNIX_Professionalnoe_programmirovanie_3-e_izd_2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Материалы/all_lecture.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Материалы/lektsii_OS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/05-04-2020-лекция_сокеты.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/2016 dir.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/2016 dir/lab_Unix_dir_file15.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/2016 dir/~$b_Unix_dir_file15.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/2016 dir/Вопросы для самопроверки.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Kernel.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Laboratornaya_rabota_open2020.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Obrabotchiki_preryvaniy_lab1.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Tasklet ИУ7-65б Мирзоян С.А. .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/VFS Мирзоян ИУ7-65.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/VFS.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/VFS_seminar20.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/[ОС] лекции.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/daemon.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/lab5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/lab_VFS_20.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/laba4.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/lektsia_sokety.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/priemnik.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/~$VFS.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Загружаемые модули ядра/Kernel.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Загружаемые модули ядра/Makefile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Загружаемые модули ядра/Разработка модулей ядра Linux.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Загружаемые модули ядра/загружаемые модули ядра.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ИУ7-65Б Мирзоян С.А. файловая система proc.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Лабораторная работа «Загружаемые модули ядра».docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Лабораторная работа «Загружаемые модули ядра».pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Мирзоян ИУ7-65б Загружаемые модули ядра (задание 2).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Мирзоян С.А. ИУ7-65 Сокеты.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Мирзоян С.А. ИУ7-65 Сокеты.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/1_graphml.graphml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/1_graphml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/2_5_graphml.graphml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/2_5_graphml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/2_graphml.graphml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/2_graphml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/3_graphml.graphml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/3_graphml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/4_5_graphml.graphml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/4_5_graphml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/5_graphml.graphml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/5_graphml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/6_graphml.graphml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/6_graphml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/7_graphml.graphml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/7_graphml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/open() Мирзоян ИУ7-65.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ОС7/open().docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/Обработчики прерыванийИУ7-65б Мирзоян С.А. .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/лаба демон/Лаб_ работа3_open() - копия.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/лаба демон/Правила_демон_Стивен - копия.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/лаба демон/функ_демона - копия.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/_build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/_clear.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/error.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/error.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/error.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/filetree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/filetree.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/filetree.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/filetree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/filetree.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/pathalloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/pathalloc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/2/pathalloc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/Аннотация 2020-03-03 173710.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Свалка/ос 2 ботва/Аннотация 2020-03-03 183842.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Экзамен/Билеты/Билет ОС 1&amp;2 Экз_весн-2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Экзамен/Билеты/Билеты ОС 1-10 2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/OS/Экзамен/Ответы.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Практика/Книга1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Практика/Отчет/listings.inc.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Практика/Отчет/main.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Практика/Отчет/main.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Практика/Отчет/main.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Практика/Отчет/main.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Практика/Отчет/main.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Практика/Отчет/main.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Практика/Отчет/sections/Conclusion.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Практика/Отчет/sections/SienceField.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Практика/Отчет/sections/intoduction.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Практика/Порядок прохождения практики.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Экология/img/1200px-메밀.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Экология/img/1488981006156379467.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Экология/img/IU7_6-i_774_sem__MS_RK1_Perepis2_bilety.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Экология/img/popugaj-kakapo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Экология/img/ppo_zachet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Экология/Барсуков Н.М. РК2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Экология/КР 1 Барсуков ИУ7-66 Животное.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Экология/КР 1 Барсуков ИУ7-66 Растение.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/6sem/Экология/Учебник.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/LMS.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Report.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Zadanie_Barsukov.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Zadanie_Barsukov.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Барскуков отчет практика.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Барсуков Н.М Отзыв.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Барсуков Н.М. Отчет.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Задание Барсуков.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Ресурсы/img/750px-newquestionchooser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Ресурсы/img/eTask-mobile_mdl_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Ресурсы/img/eTask_mdl_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Ресурсы/img/mmcourse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Ресурсы/img/mmregular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/3 курс/Летняя практика/Ссылки.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Varianty_RK_BZhD.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Варианты/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Варианты/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Варианты/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Варианты/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Варианты/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Варианты/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Варианты/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Варианты/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Варианты/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Варианты/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Варианты/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/БЖД/Варианты/Список.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Моделирование/Лекции/All_lections_from_net_without_Petri.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лабараторные работы/Лабараторная 1/MainBus.pkt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лабараторные работы/Лабараторная 1/Star.pkt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лабараторные работы/Лабараторная 1/lab1.pkt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лабараторные работы/Лабараторная 1/~$ководство к лабораторной работе 1 (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лабараторные работы/Лабараторная 1/Лабараторная 1.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лабараторные работы/Лабараторная 1/Руководство к лабораторной работе 1 (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лекции/Лекция 1, Введение, классификация сетей_нв_2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лекции/Лекция 2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лекции/Лекция 3.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лекции/Лекция 4, Разработка сетевых приложений.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лекции/Лекция 5. Протоколы прикладного уровня.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лекции/Лекция 6. Протоколы прикладного уровня, часть 2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Бакалавариат/4 курс/Сети/Лекции/Лекция 7 Протоколы транспортного уровня.pptx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1kSR5StuuE1w3AY9K7ISci5rfeL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ef6b62f-2738-4c2e-85f6-573c2fbce326" name="Default Changelist" comment="" />
+      <created>1605691824671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605691824671</updated>
+      <workItem from="1605691826807" duration="1512000" />
+      <workItem from="1605693895634" duration="893000" />
+      <workItem from="1605694930586" duration="422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
