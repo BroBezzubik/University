@@ -64,27 +64,30 @@ class Enigma(object):
             char_key = self._vocabulary[char]
 
             for roter in self._roters:
-                print("fm:", char_key)
+
                 char_key = roter.proceed(char_key)
+                print(char_key)
 
             revesersed_roters = self._roters[len(self._roters) - 2::-1]
             for roter in revesersed_roters:
-                print("BC", char_key)
+
                 char_key = roter.proceed(char_key)
-
-
-            print("\n\n")
+                print(char_key)
 
             self.rotate_roters()
             encoded_string += self._vocabulary_back[char_key]
+            print("||")
 
         return encoded_string
 
     def rotate_roters(self):
-        pass
+        for roter in self._roters[:-1]:
+            flag = roter.increment_offset()
+            if flag == 0:
+                break
 
     def reset(self):
-        for item in self._roters:
+        for item in self._roters[:-1]:
             item.reset()
 
     def process(self):
@@ -92,7 +95,6 @@ class Enigma(object):
             clear_text = str(input("Введите строку: "))
             crypted_text = self.encoding(clear_text)
             self.reset()
-            print("UNCRYPT")
             uncrypted_text = self.encoding(crypted_text)
             print(clear_text, crypted_text, uncrypted_text, sep='\n')
             break

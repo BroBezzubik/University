@@ -11,7 +11,7 @@ class Roter(object):
 
     @property
     def shema(self):
-        return self._shema_front
+        return self._shema
 
     @shema.setter
     def shema(self, shema):
@@ -43,9 +43,9 @@ class Roter(object):
 
     def increment_offset(self):
         zefo_flag = 0
-        self._offset += 1
-        if self._offset >= self._count:
-            self._offset = 0
+        self._offset_current += 1
+        if self._offset_current >= self._count:
+            self._offset_current = 0
             zefo_flag = 1
         return zefo_flag
 
@@ -71,7 +71,8 @@ class Roter(object):
         self._offset_current = self.offset
 
     def proceed(self, key):
-            return self._shema[key + self._offset_current]
+            key_shema = (key + self._offset_current) % self._count
+            return self._shema[key_shema]
 
 
     @staticmethod
