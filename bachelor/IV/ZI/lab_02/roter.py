@@ -4,18 +4,27 @@ from random import choice
 
 class Roter(object):
     def __init__(self):
-        self._shema = None
+        self._shema_left_side = None
+        self._shema_right_side = None
         self._offset = None
         self._offset_current = None
         self._count = None
 
     @property
-    def shema(self):
-        return self._shema
+    def shema_left_side(self):
+        return self._shema_left_side
 
-    @shema.setter
-    def shema(self, shema):
-        self._shema = shema
+    @shema_left_side.setter
+    def shema_left_side(self, shema):
+        self._shema_left_side = shema
+
+    @property
+    def shema_rigth_side(self):
+        return self._shema_right_side
+
+    @shema_rigth_side.setter
+    def shema_rigth_side(self, new_shema):
+        self._shema_right_side = new_shema
 
     @property
     def count(self):
@@ -49,31 +58,31 @@ class Roter(object):
             zefo_flag = 1
         return zefo_flag
 
-    def generate_shema(self):
-        list1 = list(range(self._count))
-        list2 = list(range(self._count))
-
-        shema = {}
-        while len(list1) > 0 and len(list2) > 0:
-            element1 = choice(list1)
-            list1.remove(element1)
-            list2.remove(element1)
-            element2 = choice(list2)
-            list1.remove(element2)
-            list2.remove(element2)
-            shema[element1] = element2
-            shema[element2] = element1
-
-
-        self._shema = shema
-
     def reset(self):
         self._offset_current = self.offset
 
-    def proceed(self, key):
-            key_shema = (key + self._offset_current) % self._count
-            return self._shema[key_shema]
+    def proceed(self, key, direction="front"):
+        if direction == "front":
+            return self._shema_left_side[(key + self._offset_current) % self._count]
+        elif direction == "back":
+            return self._shema_right_side[(key + self._offset_current) % self._count]
 
+    @staticmethod
+    def generate_shema(count):
+        list1 = list(range(count))
+        list2 = list(range(count))
+
+        shema_left_side = {}
+        shema_right_side = {}
+        while len(list1) > 0 and len(list2) > 0:
+            connector1 = choice(list1)
+            connector2 = choice(list2)
+            list1.remove(connector1)
+            list2.remove(connector2)
+            shema_left_side[connector1] = connector2
+            shema_right_side[connector2] = connector1
+
+        return shema_left_side, shema_right_side
 
     @staticmethod
     def generate_roter(count, offset):

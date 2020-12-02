@@ -4,8 +4,8 @@ from roter import *
 
 class Enigma(object):
     def __init__(self, letters):
-        self._letters = letters
-        self._vocabulary = None
+        self.letters = letters
+        self._vocabulary = letters
         self._vocabulary_back = None
         self._count = None
         self._roters = None
@@ -65,13 +65,13 @@ class Enigma(object):
 
             for roter in self._roters:
 
-                char_key = roter.proceed(char_key)
+                char_key = roter.proceed(char_key, "front")
                 print(char_key)
 
             revesersed_roters = self._roters[len(self._roters) - 2::-1]
             for roter in revesersed_roters:
 
-                char_key = roter.proceed(char_key)
+                char_key = roter.proceed(char_key, "back")
                 print(char_key)
 
             self.rotate_roters()
