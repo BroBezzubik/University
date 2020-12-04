@@ -6,9 +6,9 @@
 ## Статус лаборатоных работ ##
 
 * Лабораторная №1
-    * Status: WIP
+    * Status: On_Check
 * Лабораторная №2
-    * Status: In queue
+    * Status: WIP
 * Лабораторная №3
     * Status: In queue
 * Лабораторная №4
