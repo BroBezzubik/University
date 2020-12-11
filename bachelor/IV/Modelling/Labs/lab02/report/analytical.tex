@@ -28,3 +28,18 @@ F_x(x) \equiv P(X <= x) = \begin{cases}
 \end{equation}
 
 \subsection{Распределение Пауссона}
+Распределение Паусона используется для моделирования количетсва событий проиходящих в заданном временном интервале.
+
+
+\begin{equation}
+f(x; \lambda) = \frac{e^{-\lambda * \lambda^x}}{!x} \quad x = 0, 1, 2, 3
+\end{equation}
+
+Функция плотности имеет вид:
+
+\begin{equation}
+	F(x; \lambda) = \sum_{i=0}^{x}\frac{e^{-\lambda * \lambda^i}}{i!} 
+\end{equation}
+
+$\lambda$ - параметр формы, который указывает среднее количество событий в данном временном интервале.
+
