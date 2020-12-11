@@ -10,7 +10,7 @@
 * Лабораторная №2
     * Status: WIP
 * Лабораторная №3
-    * Status: In queue
+    * Status: WIP
 * Лабораторная №4
     * Status: In queue
 * Лабораторная №5
