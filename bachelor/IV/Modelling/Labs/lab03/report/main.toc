@@ -1,0 +1,6 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Аналитический раздел}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Цель работы}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Уравнение Колмогорова в общем виде}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Экспериментальный раздел}{5}{section.2}%
+\contentsline {section}{Список использованных источников}{6}{figure.caption.3}%
