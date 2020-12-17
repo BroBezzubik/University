@@ -8,9 +8,9 @@
 * Лабораторная №1
     * Status: Done
 * Лабораторная №2
-    * Status: WIP
+    * Status: Done
 * Лабораторная №3
-    * Status: WIP
+    * Status: Done
 * Лабораторная №4
     * Status: In queue
 * Лабораторная №5
