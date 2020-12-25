@@ -1,0 +1,40 @@
+\section{Аналитичесий раздел}
+
+\subsection{Распределение}
+
+\subsubsection{Равномерное распределение}
+
+Случайная величина имеет непрерывное равномерное распределение на отрезке $[a,b]$, где $a,b \in R $, если ее плотность $f_x(X)$ имеет вид:
+\begin{equation}
+f_x(x)=\begin{cases}
+\frac{1}{b-a} \quad x \in [a,b] \\
+0 \quad x \notin [a,b].
+\end{cases}
+\end{equation}
+
+Интегрируя определенную выше плотность получаем:
+\begin{equation}
+F_x(x) \equiv P(X <= x) = \begin{cases}
+	0, \quad x < a \\
+	\frac{x - a}{b - a}, \quad a <= x < b \\
+	1, \quad x >= b
+\end{cases}
+\end{equation}
+
+\subsubsection{Распределение Пауссона}
+
+Распределение Паусона используется для моделирования количетсва событий проиходящих в заданном временном интервале.
+
+
+\begin{equation}
+f(x; \lambda) = \frac{e^{-\lambda * \lambda^x}}{!x} \quad x = 0, 1, 2, 3
+\end{equation}
+
+Функция плотности имеет вид:
+
+\begin{equation}
+	F(x; \lambda) = \sum_{i=0}^{x}\frac{e^{-\lambda * \lambda^i}}{i!} 
+\end{equation}
+
+$\lambda$ - параметр формы, который указывает среднее количество событий в данном временном интервале.
+
