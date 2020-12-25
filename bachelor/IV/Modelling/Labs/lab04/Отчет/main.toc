@@ -1,0 +1,11 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Условие лабораторной работы}{3}{section.1}%
+\contentsline {section}{\numberline {2}Теоритическая часть}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Распределения}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Равномерное распределение}{4}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Распределение Пауссона}{4}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Протяжка модельного времени}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Метод $\triangle $t}{5}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Событийный метод }{5}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}Эксперементальная часть}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Примеры работы}{8}{subsection.3.1}%

@@ -1,0 +1,45 @@
+\documentclass[a4paper, 14pt]{article}
+
+\input{preamble.tex}
+
+\usepackage[T2A, T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{misccorr}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{verbatim}
+\usepackage{listings}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+
+% Настройки листингов.
+\include{listings.inc}
+
+\begin{document}
+    \include{title}
+
+    \newpage
+    \tableofcontents
+	
+	\newpage
+    \include{intro}
+	
+	\newpage
+    \include{analytical}
+
+    \include{design}
+
+    \include{techn}
+	
+	\newpage
+    \include{exper}
+    %\addcontentsline{toc}{section}{Заключение}
+    \include{concl}
+    \include{supplement}
+\end{document}
