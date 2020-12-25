@@ -1,0 +1,4 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Условие лабораторной работы}{3}{section.1}%
+\contentsline {section}{\numberline {2}Теоретическая часть}{4}{section.2}%
+\contentsline {section}{\numberline {3}Пример работы программы}{5}{section.3}%
