@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a33f0a57-b9e2-41c1-a27c-b3e68ef6117a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="JupyterTrust" id="e77af12d-4d25-4bf3-8b2b-3b9394cae73f" />
+  <component name="ProjectId" id="1m8vR17ZDMn1kAEcaaFmpcAdAGx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="lab06" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a33f0a57-b9e2-41c1-a27c-b3e68ef6117a" name="Default Changelist" comment="" />
+      <created>1608888021259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608888021259</updated>
+      <workItem from="1608888022433" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608888037853">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/-1680.22.1680.1020@0.0.1536.834" timestamp="1608888037853" />
+    <state x="548" y="184" key="FileChooserDialogImpl" timestamp="1608888034811">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="184" key="FileChooserDialogImpl/0.0.1536.834/-1680.22.1680.1020@0.0.1536.834" timestamp="1608888034811" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1608889154751">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834/-1680.22.1680.1020@0.0.1536.834" timestamp="1608889154751" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1608889154750">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834/-1680.22.1680.1020@0.0.1536.834" timestamp="1608889154750" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1608889154750">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834/-1680.22.1680.1020@0.0.1536.834" timestamp="1608889154750" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1608889154751">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834/-1680.22.1680.1020@0.0.1536.834" timestamp="1608889154751" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab06$main.coverage" NAME="main Coverage Results" MODIFIED="1608888039077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

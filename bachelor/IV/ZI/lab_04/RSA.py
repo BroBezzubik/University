@@ -17,7 +17,8 @@ class RSA():
         p = Algorithms.simple_number(self.bit_count)
         q = Algorithms.simple_number(self.bit_count)
         n = p * q
-        phi = (p - 1) * (q - 1) 
+        # Функция Эйлера
+        phi = (p - 1) * (q - 1)                         
         e, d = Algorithms.find_e_d(phi)
 
 

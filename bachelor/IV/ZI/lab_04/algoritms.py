@@ -55,15 +55,16 @@ class Algorithms():
 
 
     @staticmethod
-    # a - phi
-    # b - e
+    # a - phi - функция эйлера 
+    # b - e - открытая эконента
     # ax + by = d
     # нужно найти коэффициент при b
     def advanced_euclide(a, b):
         x2, x1, y2, y1 = 1, 0, 0, 1
         while b > 0:
+
             q = a // b
-            r = a - q *b
+            r = a - q * b
             
             x = x2 - q * x1
             y = y2 - q * y1
