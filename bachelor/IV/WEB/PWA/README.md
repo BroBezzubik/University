@@ -21,5 +21,7 @@
 
 ### ER Diagram
 
+![ER DIAGRAM](ER.png)
+
 
 
