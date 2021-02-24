@@ -1,0 +1,19 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Реферат}{4}{section.1}%
+\contentsline {section}{\numberline {2}Введение}{6}{section.2}%
+\contentsline {section}{\numberline {3}Аналитический раздел}{8}{section.3}%
+\contentsline {subsubsection}{\numberline {3.0.1}Описание предметной области}{8}{subsubsection.3.0.1}%
+\contentsline {subsubsection}{\numberline {3.0.2}Архитектура системы}{8}{subsubsection.3.0.2}%
+\contentsline {subsection}{\numberline {3.1}Протокол прикладного уровня}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Протокол транспортного уровня}{12}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Активный и пассивный режим}{12}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Конструкториский раздел}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}IDEF0}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Описание структуры разрабатываемой программы}{15}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Технологический раздел}{19}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Язык программирования}{19}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Среды программирования}{20}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Листинг}{20}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Примеры работы программы}{38}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Заключение}{40}{section.6}%
+\contentsline {section}{Список использованных источников}{41}{Item.64}%
