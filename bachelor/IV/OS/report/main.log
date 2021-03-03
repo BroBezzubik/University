@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.16)  3 MAR 2021 15:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.16)  3 MAR 2021 18:08
 entering extended mode
 **./main.tex
 (main.tex
@@ -1314,7 +1314,7 @@ File: koi8-r.def 2014/10/28 v1.0d Input encoding file
 <src/img/module_schema.png, id=322, 709.65125pt x 421.575pt>
 File: src/img/module_schema.png Graphic file (type png)
 <use src/img/module_schema.png>
-Package pdftex.def Info: src/img/module_schema.png  used on input line 19.
+Package pdftex.def Info: src/img/module_schema.png  used on input line 20.
 (pdftex.def)             Requested size: 338.58632pt x 201.14435pt.
  [14
 
@@ -1328,7 +1328,7 @@ File: koi8-r.def 2014/10/28 v1.0d Input encoding file
 <src/img/irq_proceed.png, id=359, 1073.00874pt x 690.58pt>
 File: src/img/irq_proceed.png Graphic file (type png)
 <use src/img/irq_proceed.png>
-Package pdftex.def Info: src/img/irq_proceed.png  used on input line 71.
+Package pdftex.def Info: src/img/irq_proceed.png  used on input line 72.
 (pdftex.def)             Requested size: 483.69687pt x 311.29553pt.
 ) [16 <./src/img/irq_proceed.png (PNG copy)>]
 \openout2 = `techn.aux'.
@@ -1413,7 +1413,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
 Here is how much of TeX's memory you used:
  38230 strings out of 480790
  812408 string characters out of 2911284
- 1432009 words of memory out of 3000000
+ 1433009 words of memory out of 3000000
  52810 multiletter control sequences out of 15000+200000
  540384 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1425,7 +1425,7 @@ al\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/soft/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmmi12.pfb><C:/soft/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmr12.pfb><C:/soft/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/soft/
 MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (31 pages, 578745 bytes).
+Output written on main.pdf (31 pages, 578721 bytes).
 PDF statistics:
  1362 PDF objects out of 1440 (max. 8388607)
  669 named destinations out of 1000 (max. 500000)
