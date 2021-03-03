@@ -1,1 +1,0 @@
-cmd_/home/bezzubik/Projects/University/bachelor/IV/OS/built-in.a := rm -f /home/bezzubik/Projects/University/bachelor/IV/OS/built-in.a; ar cDPrST /home/bezzubik/Projects/University/bachelor/IV/OS/built-in.a 
