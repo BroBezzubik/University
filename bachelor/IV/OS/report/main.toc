@@ -1,10 +1,16 @@
 \babel@toc {russian}{}
 \contentsline {section}{\numberline {1}Аналитический раздел}{4}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Анализ подходов к реализации}{4}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Загружаемы модули ядра Linux}{4}{subsection.1.2}%
-\contentsline {subsubsection}{\numberline {1.2.1}Устройство модуля ядра}{5}{subsubsection.1.2.1}%
-\contentsline {subsubsection}{\numberline {1.2.2}Анатомия объектного кода модуля ядра}{5}{subsubsection.1.2.2}%
-\contentsline {subsubsection}{\numberline {1.2.3}Жизненный цикл загружаемого модуля ядра}{6}{subsubsection.1.2.3}%
-\contentsline {subsubsection}{\numberline {1.2.4}Подробности загрузки модуля}{7}{subsubsection.1.2.4}%
-\contentsline {subsection}{\numberline {1.3}Подробности выгрузки модуля}{10}{subsection.1.3}%
-\contentsline {section}{Список использованных источников}{12}{figure.caption.5}%
+\contentsline {subsection}{\numberline {1.1}Постановка задачи}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Процесс обработки прерываний}{4}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Контролер прерываний}{5}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Обработчик прерываний}{5}{subsubsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.3}Отложенное действие}{6}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Вывод}{6}{subsubsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.4}Процедуры доступа к портам ввода/вывода}{6}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Драйвер символьных устройств}{6}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Старший и младший номера устройств}{7}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Структуры данных символьного устройства}{8}{subsubsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}Регистрация символьных устройств}{9}{subsubsection.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.4}Вывод}{10}{subsubsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.6}Подсистема ввода ядра}{10}{subsection.1.6}%
+\contentsline {section}{Список использованных источников}{11}{subsection.1.6}%
