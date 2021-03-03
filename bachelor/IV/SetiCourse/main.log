@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.16)  24 FEB 2021 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.16)  25 FEB 2021 17:20
 entering extended mode
 **./main.tex
 (main.tex
@@ -1470,7 +1470,7 @@ Here is how much of TeX's memory you used:
 0.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
 2074.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
 arm1440.pk>
-Output written on main.pdf (41 pages, 537094 bytes).
+Output written on main.pdf (41 pages, 537098 bytes).
 PDF statistics:
  1353 PDF objects out of 1440 (max. 8388607)
  696 named destinations out of 1000 (max. 500000)
