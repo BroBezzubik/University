@@ -1,30 +1,29 @@
 \babel@toc {russian}{}
-\contentsline {section}{Введение}{5}{Doc-Start}%
-\contentsline {section}{\numberline {1}Аналитический раздел}{6}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Процесс обработки прерываний}{6}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1}Контроллер прерываний}{6}{subsubsection.1.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.2}Обработчик прерываний}{7}{subsubsection.1.1.2}%
-\contentsline {subsection}{\numberline {1.2}Отложенное действие}{7}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Процедуры доступа к портам ввода/вывода}{8}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Драйвер символьных устройств}{9}{subsection.1.4}%
-\contentsline {subsubsection}{\numberline {1.4.1}Старший и младший номера устройств}{10}{subsubsection.1.4.1}%
-\contentsline {subsubsection}{\numberline {1.4.2}Структуры данных символьного устройства}{10}{subsubsection.1.4.2}%
-\contentsline {subsubsection}{\numberline {1.4.3}Регистрация символьных устройств}{12}{subsubsection.1.4.3}%
-\contentsline {subsubsection}{\numberline {1.4.4}Вывод}{12}{subsubsection.1.4.4}%
-\contentsline {subsection}{\numberline {1.5}Подсистема ввода ядра}{12}{subsection.1.5}%
-\contentsline {subsubsection}{\numberline {1.5.1}Драйверы событий для мыши}{13}{subsubsection.1.5.1}%
-\contentsline {section}{\numberline {2}Конструкториский раздел}{15}{section.2}%
-\contentsline {subsubsection}{\numberline {2.0.1}Реализация модуля ядра}{15}{subsubsection.2.0.1}%
-\contentsline {subsection}{\numberline {2.1}Основнеые структуры программы}{16}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Формат конфигурации от пользователей}{16}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Реализация обработчика прерываний}{17}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Технологический раздел}{18}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Выбор инструментария}{18}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Язые программирования}{18}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Среда разработки}{18}{subsubsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.2}Реализация}{18}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Makefile}{19}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Загружаемый модуль ядра}{19}{subsubsection.3.2.2}%
-\contentsline {section}{Заключение}{21}{lstnumber.7.17}%
-\contentsline {section}{Список использованных источников}{22}{Item.47}%
-\contentsline {section}{Приложение}{23}{Item.47}%
+\contentsline {section}{Введение}{4}{Doc-Start}%
+\contentsline {section}{\numberline {1}Аналитический раздел}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Процесс обработки прерываний}{5}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Контроллер прерываний}{5}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Обработчик прерываний}{6}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Отложенное действие}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Процедуры доступа к портам ввода/вывода}{7}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Драйвер символьных устройств}{8}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Старший и младший номера устройств}{9}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Структуры данных символьного устройства}{9}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Регистрация символьных устройств}{11}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Вывод}{11}{subsubsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.5}Подсистема ввода ядра}{11}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Конструкториский раздел}{14}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Реализация модуля ядра}{14}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Основнеые структуры программы}{15}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Формат конфигурации от пользователей}{15}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Реализация обработчика прерываний}{16}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Технологический раздел}{17}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Выбор инструментария}{17}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Язые программирования}{17}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Среда разработки}{17}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Реализация}{17}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Makefile}{18}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Загружаемый модуль ядра}{18}{subsubsection.3.2.2}%
+\contentsline {section}{Заключение}{20}{lstnumber.7.17}%
+\contentsline {section}{Список литературы}{21}{Item.47}%
+\contentsline {section}{Приложение}{22}{Item.47}%
