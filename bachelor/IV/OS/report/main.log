@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.27)  3 MAR 2021 10:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.27)  3 MAR 2021 11:17
 entering extended mode
 **./main.tex
 (main.tex
@@ -1372,30 +1372,30 @@ Underfull \hbox (badness 1960) in paragraph at lines 2--5
 \openout2 = `analytical.aux'.
 
  (analytical.tex
-Underfull \hbox (badness 1571) in paragraph at lines 7--8
+Underfull \hbox (badness 1571) in paragraph at lines 5--6
 []\T2A/ptm/b/n/14.4 Для решения поставленной цели необходимо выполнить следующи
 е
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 17--20
+Underfull \hbox (badness 1303) in paragraph at lines 15--18
 \T2A/ptm/b/n/14.4 заставляет процессор приостановить выполнение программы и выз
 вать
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 23--26
+Underfull \hbox (badness 2418) in paragraph at lines 21--24
 \T2A/ptm/b/n/14.4 нибудь процессом. Они возникают в любое время независимо от
  []
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 29--31
+Underfull \hbox (badness 2326) in paragraph at lines 27--29
 []\T2A/ptm/b/n/14.4 Устройство, поддерживающее прерывания, имеет выходной конта
 кт
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 29--31
+Underfull \hbox (badness 2401) in paragraph at lines 27--29
 \T2A/ptm/b/n/14.4 контактов называется линией прерывания и подключен к устройст
 ву
  []
@@ -1405,98 +1405,152 @@ Underfull \hbox (badness 2401) in paragraph at lines 29--31
 
 
 ]
-<src/img/interupt device.png, id=117, 828.09375pt x 283.0575pt>
+<src/img/interupt device.png, id=123, 828.09375pt x 283.0575pt>
 File: src/img/interupt device.png Graphic file (type png)
 <use src/img/interupt device.png>
-Package pdftex.def Info: src/img/interupt device.png  used on input line 34.
+Package pdftex.def Info: src/img/interupt device.png  used on input line 32.
 (pdftex.def)             Requested size: 338.58632pt x 115.73901pt.
 
-Underfull \hbox (badness 1259) in paragraph at lines 40--42
+Underfull \hbox (badness 1259) in paragraph at lines 38--40
 \T2A/ptm/b/n/14.4 заканчивает работу. Во многих случиях ожидается, что модули б
 удут
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 []\T2A/ptm/b/n/14.4 В Linux запрос на получение и особождение прерывания
  []
 
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 44.
+nput line 42.
 (/home/bezzubik/.miktex/texmfs/install/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2014/10/28 v1.0d Input encoding file
 )
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
-6.
+4.
 
 (/home/bezzubik/.miktex/texmfs/install/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 1082) in paragraph at lines 54--55
+Underfull \hbox (badness 1082) in paragraph at lines 52--53
 []\T2A/ptm/b/n/14.4 После того как прерывание было запрошено, оно будет обработ
 ано
  []
 
 [5 <./src/img/interupt device.png>]
-Underfull \hbox (badness 1776) in paragraph at lines 57--60
+Underfull \hbox (badness 1776) in paragraph at lines 55--58
 []\T2A/ptm/b/n/14.4 Отложенное действие - это класс средст ядра, который позвол
 яет
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 57--60
+Underfull \hbox (badness 3312) in paragraph at lines 55--58
 \T2A/ptm/b/n/14.4 отложенного действия минимальная требуемая работа выполняется
  в
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 64--66
+Underfull \hbox (badness 1231) in paragraph at lines 62--64
 []\T2A/ptm/b/n/14.4 тасклеты - Они работают в контексте прерывания, как и softi
 rqs.
  []
 
-[6]
-Underfull \hbox (badness 2213) in paragraph at lines 91--95
+
+Underfull \hbox (badness 1127) in paragraph at lines 76--79
+[]\T2A/ptm/b/n/14.4 Перед доступом к портам ввода-вывода необходимо вызвать зап
+рос
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 76--79
+\T2A/ptm/b/n/14.4 доступа, чтобы убедиться, что существует только один пользова
+тель.
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 76--79
+\T2A/ptm/b/n/14.4 Для этого используется функция request_region(). Чтобы освобо
+дить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--79
+\T2A/ptm/b/n/14.4 зарезервированную область, необходимо использовать функцию
+ []
+
+[6] [7]
+Underfull \hbox (badness 2213) in paragraph at lines 105--109
 \T2A/ptm/b/n/14.4 раз прерывание. Данные устройства не в состоянии использовать
 
  []
 
 
-Underfull \hbox (badness 5939) in paragraph at lines 91--95
+Underfull \hbox (badness 5939) in paragraph at lines 105--109
 \T2A/ptm/b/n/14.4 произвольную адрисацию и не поддерживают операцию поиска.
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 91--95
+Underfull \hbox (badness 1097) in paragraph at lines 105--109
 \T2A/ptm/b/n/14.4 Примерами устройств такого типа являются терминалы, принтеры,
 
  []
 
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 134--137
 []\T2A/ptm/b/n/14.4 Драйверы символьных устройств получают системные вызовы,
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 120--123
+Underfull \hbox (badness 3343) in paragraph at lines 134--137
 \T2A/ptm/b/n/14.4 выполняемые пользователями через файлы типа устройств. Другим
 и
  []
 
 (/home/bezzubik/.miktex/texmfs/install/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2014/10/28 v1.0d Input encoding file
-) [8]
-Underfull \hbox (badness 6961) in paragraph at lines 173--175
+) [9]
+Underfull \hbox (badness 6961) in paragraph at lines 187--189
 []\T2A/ptm/b/n/14.4 Идентификаторы устройств могут быть статически назначены с
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--175
+Underfull \hbox (badness 10000) in paragraph at lines 187--189
 \T2A/ptm/b/n/14.4 помощью register_chrdev_region() или динамически распределены
 
  []
 
-[9]) [10]
+[10]
+Underfull \hbox (badness 3568) in paragraph at lines 202--204
+[]\T2A/ptm/b/n/14.4 Единая обработка функционально похожих устройств, даже если
+
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 202--204
+\T2A/ptm/b/n/14.4 они конструктивно разные. Например: USB и Bluetooth мыши
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 209--212
+[]\T2A/ptm/b/n/14.4 Подсистема содержит два класса драйверов: драйверы событий 
+и
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 209--212
+\T2A/ptm/b/n/14.4 драйверы устройств. Драйверы событий отвечают за взаимодейств
+ие с
+ []
+
+<src/img/input_system.png, id=234, 653.44125pt x 756.8275pt>
+File: src/img/input_system.png Graphic file (type png)
+<use src/img/input_system.png>
+Package pdftex.def Info: src/img/input_system.png  used on input line 215.
+(pdftex.def)             Requested size: 338.58632pt x 392.15523pt.
+[11] (/home/bezzubik/.miktex/texmfs/install/tex/latex/cyrillic/koi8-r.def
+File: koi8-r.def 2014/10/28 v1.0d Input encoding file
+)
+[12 <./src/img/input_system.png>]) [13]
 \openout2 = `design.aux'.
 
 
@@ -1526,7 +1580,7 @@ l:org=doc=html=v\OT1/cmr/m/n/14.4 4\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 12\OML
 /cmm/m/it/14.4 =input=uinput:html$
  []
 
-) [11
+) [14
 
 
 
@@ -1553,13 +1607,13 @@ No file supplement.tex.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F44DF1974F807E181CEC2E8ACFA6BF67;3785.
+(rerunfilecheck)             Checksum: E8B37AC6538707157718B9CAD5AE0477;4046.
  ) 
 Here is how much of TeX's memory you used:
- 37182 strings out of 481270
- 809277 string characters out of 2908470
- 1503453 words of memory out of 3000000
- 53570 multiletter control sequences out of 15000+200000
+ 37227 strings out of 481270
+ 809970 string characters out of 2908470
+ 1537453 words of memory out of 3000000
+ 53589 multiletter control sequences out of 15000+200000
  411476 words of font info for 44 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  102i,6n,103p,724b,2342s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1571,9 +1625,9 @@ ome/bezzubik/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk><
 ></home/bezzubik/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pf
 b></home/bezzubik/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb></home/bezzubik/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (11 pages, 196624 bytes).
+Output written on main.pdf (14 pages, 334522 bytes).
 PDF statistics:
- 504 PDF objects out of 1000 (max. 8388607)
- 106 named destinations out of 1000 (max. 500000)
- 162 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 556 PDF objects out of 1000 (max. 8388607)
+ 129 named destinations out of 1000 (max. 500000)
+ 175 words of extra memory for PDF output out of 10000 (max. 10000000)
 
