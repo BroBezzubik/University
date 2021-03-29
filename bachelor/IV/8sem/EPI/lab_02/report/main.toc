@@ -1,0 +1,2 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Тренировочное задание}{3}{section.1}%
