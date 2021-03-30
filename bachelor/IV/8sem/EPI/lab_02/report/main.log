@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.16)  29 MAR 2021 09:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.16)  30 MAR 2021 10:52
 entering extended mode
 **./main.tex
 (main.tex
@@ -1106,8 +1106,12 @@ LaTeX Font Info:    No file T2Aptm.fd. on input line 23.
 LaTeX Font Warning: Font shape `T2A/ptm/m/n' undefined
 (Font)              using `T2A/cmr/m/n' instead on input line 23.
 
-(ref.aux) (intro.aux) (analytical.aux) (design.aux) (techn.aux) (exper.aux)
-(concl.aux) (biblist.aux) (supplement.aux))
+(ref.aux) (intro.aux) (analytical.aux
+
+LaTeX Warning: Label `fig:task35' multiply defined.
+
+) (design.aux) (techn.aux) (exper.aux) (concl.aux) (biblist.aux)
+(supplement.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -1137,8 +1141,7 @@ Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box68
 Package hyperref Info: Link coloring OFF on input line 24.
-
-(C:\soft\MiKTeX\tex/latex/hyperref\nameref.sty
+ (C:\soft\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
 (C:\soft\MiKTeX\tex/latex/refcount\refcount.sty
@@ -1264,7 +1267,7 @@ Underfull \hbox (badness 7308) in paragraph at lines 9--10
 ля-ет 120
  []
 
-<task0_1.png, id=25, 305.64188pt x 296.60812pt>
+<task0_1.png, id=45, 305.64188pt x 296.60812pt>
 File: task0_1.png Graphic file (type png)
 <use task0_1.png>
 Package pdftex.def Info: task0_1.png  used on input line 15.
@@ -1274,17 +1277,71 @@ Package pdftex.def Info: task0_1.png  used on input line 15.
 
 
  <./task0_1.png>]
-<src/task0_4.png, id=39, 575.90157pt x 179.92218pt>
+<src/task0_4.png, id=59, 575.90157pt x 179.92218pt>
 File: src/task0_4.png Graphic file (type png)
 <use src/task0_4.png>
 Package pdftex.def Info: src/task0_4.png  used on input line 28.
 (pdftex.def)             Requested size: 338.58632pt x 105.78253pt.
-<src/task0_3.png, id=40, 748.29562pt x 181.42781pt>
+<src/task0_3.png, id=60, 748.29562pt x 181.42781pt>
 File: src/task0_3.png Graphic file (type png)
 <use src/task0_3.png>
 Package pdftex.def Info: src/task0_3.png  used on input line 34.
 (pdftex.def)             Requested size: 338.58632pt x 82.093pt.
-) [4 <./src/task0_4.png> <./src/task0_3.png>]
+<src/task1_1.png, id=62, 1147.28625pt x 490.08093pt>
+File: src/task1_1.png Graphic file (type png)
+<use src/task1_1.png>
+Package pdftex.def Info: src/task1_1.png  used on input line 44.
+(pdftex.def)             Requested size: 338.58632pt x 144.63245pt.
+ [4 <./src/task0_4.png> <./src/task0_3.png>]
+<src/task1_2.png, id=76, 526.3665pt x 341.47575pt>
+File: src/task1_2.png Graphic file (type png)
+<use src/task1_2.png>
+Package pdftex.def Info: src/task1_2.png  used on input line 53.
+(pdftex.def)             Requested size: 338.58632pt x 219.65877pt.
+<src/task1_3.png, id=77, 526.3665pt x 341.47575pt>
+File: src/task1_3.png Graphic file (type png)
+<use src/task1_3.png>
+Package pdftex.def Info: src/task1_3.png  used on input line 60.
+(pdftex.def)             Requested size: 338.58632pt x 219.65877pt.
+ [5 <./src/task1_1.png> <./src/task1_2.png>]
+<src/task3_5.png, id=88, 1147.8885pt x 449.88075pt>
+File: src/task3_5.png Graphic file (type png)
+<use src/task3_5.png>
+Package pdftex.def Info: src/task3_5.png  used on input line 76.
+(pdftex.def)             Requested size: 338.58632pt x 132.69994pt.
+ [6 <./src/task1_3.png>]
+<src/task2_1.png, id=99, 383.63326pt x 256.5585pt>
+File: src/task2_1.png Graphic file (type png)
+<use src/task2_1.png>
+Package pdftex.def Info: src/task2_1.png  used on input line 84.
+(pdftex.def)             Requested size: 338.58632pt x 226.43378pt.
+ [7 <./src/task3_5.png> <./src/task2_1.png>]
+<src/task3_1.png, id=117, 369.7815pt x 257.763pt>
+File: src/task3_1.png Graphic file (type png)
+<use src/task3_1.png>
+Package pdftex.def Info: src/task3_1.png  used on input line 106.
+(pdftex.def)             Requested size: 338.58632pt x 236.03569pt.
+<src/task3_2.png, id=118, 451.08525pt x 398.08725pt>
+File: src/task3_2.png Graphic file (type png)
+<use src/task3_2.png>
+Package pdftex.def Info: src/task3_2.png  used on input line 112.
+(pdftex.def)             Requested size: 338.58632pt x 298.81982pt.
+<src/task3_3.png, id=119, 372.79276pt x 252.34274pt>
+File: src/task3_3.png Graphic file (type png)
+<use src/task3_3.png>
+Package pdftex.def Info: src/task3_3.png  used on input line 118.
+(pdftex.def)             Requested size: 338.58632pt x 229.1933pt.
+<src/task3_4.png, id=120, 551.05875pt x 377.0085pt>
+File: src/task3_4.png Graphic file (type png)
+<use src/task3_4.png>
+Package pdftex.def Info: src/task3_4.png  used on input line 124.
+(pdftex.def)             Requested size: 338.58632pt x 231.65462pt.
+ [8 <./src/task3_1.png> <./src/task3_2.png>]
+File: src/task3_5.png Graphic file (type png)
+<use src/task3_5.png>
+Package pdftex.def Info: src/task3_5.png  used on input line 133.
+(pdftex.def)             Requested size: 338.58632pt x 132.69994pt.
+ [9 <./src/task3_3.png> <./src/task3_4.png>]) [10]
 \openout2 = `design.aux'.
 
 
@@ -1315,27 +1372,30 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4B636DE7A298A77634B160DD2929DBF2;211.
+(rerunfilecheck)             Checksum: 5DE16622FDD4AA0AB418BCB0871002AE;630.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
  ) 
 Here is how much of TeX's memory you used:
- 37011 strings out of 480790
- 797724 string characters out of 2911284
- 1176691 words of memory out of 3000000
- 52334 multiletter control sequences out of 15000+200000
+ 37125 strings out of 480790
+ 799368 string characters out of 2911284
+ 1177691 words of memory out of 3000000
+ 52412 multiletter control sequences out of 15000+200000
  536393 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,98p,724b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,6n,98p,944b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm207
 4.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
 1440.pk>
-Output written on main.pdf (4 pages, 120088 bytes).
+Output written on main.pdf (10 pages, 454789 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 44 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 273 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
