@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.16)  31 MAR 2021 09:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.16)  3 APR 2021 16:16
 entering extended mode
 **./main.tex
 (main.tex
@@ -1106,8 +1106,12 @@ LaTeX Font Info:    No file T2Aptm.fd. on input line 23.
 LaTeX Font Warning: Font shape `T2A/ptm/m/n' undefined
 (Font)              using `T2A/cmr/m/n' instead on input line 23.
 
-(ref.aux) (intro.aux) (analytical.aux) (design.aux) (techn.aux) (exper.aux)
-(concl.aux) (biblist.aux) (supplement.aux))
+(ref.aux) (intro.aux) (analytical.aux
+
+LaTeX Warning: Label `fig:task35' multiply defined.
+
+) (design.aux) (techn.aux) (exper.aux) (concl.aux) (biblist.aux)
+(supplement.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -1137,8 +1141,7 @@ Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box68
 Package hyperref Info: Link coloring OFF on input line 24.
-
-(C:\soft\MiKTeX\tex/latex/hyperref\nameref.sty
+ (C:\soft\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
 (C:\soft\MiKTeX\tex/latex/refcount\refcount.sty
@@ -1259,24 +1262,200 @@ No file intro.tex.
 \openout2 = `analytical.aux'.
 
 (analytical.tex
-<../../lab_03/report/src/lab3_1_1.png, id=30, 395.67825pt x 305.943pt>
-File: ../../lab_03/report/src/lab3_1_1.png Graphic file (type png)
-<use ../../lab_03/report/src/lab3_1_1.png>
-Package pdftex.def Info: ../../lab_03/report/src/lab3_1_1.png  used on input li
-ne 39.
-(pdftex.def)             Requested size: 338.58632pt x 261.81271pt.
- [3
+Underfull \hbox (badness 7308) in paragraph at lines 9--10
+[]\T2A/ptm/b/n/14.4 Предусмотреть, что стан-дарт-ная став-ка ре-сур-са со-став-
+ля-ет 120
+ []
+
+
+! LaTeX Error: File `task0_1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...ludegraphics[width=0.7\linewidth]{task0_1}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `src/task0_4' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ...graphics[width=0.7\linewidth]{src/task0_4}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `src/task0_3' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...graphics[width=0.7\linewidth]{src/task0_3}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `src/task1_1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...graphics[width=0.7\linewidth]{src/task1_1}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[3
 
 
 
-] [4 <../../lab_03/report/src/lab3_1_1.png>]
-<../../lab_03/report/src/lab3_2_1.png, id=63, 526.3665pt x 341.47575pt>
-File: ../../lab_03/report/src/lab3_2_1.png Graphic file (type png)
-<use ../../lab_03/report/src/lab3_2_1.png>
-Package pdftex.def Info: ../../lab_03/report/src/lab3_2_1.png  used on input li
-ne 71.
-(pdftex.def)             Requested size: 338.58632pt x 219.65877pt.
-) [5 <../../lab_03/report/src/lab3_2_1.png>]
+]
+
+! LaTeX Error: File `src/task1_2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 ...graphics[width=0.7\linewidth]{src/task1_2}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `src/task1_3' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...graphics[width=0.7\linewidth]{src/task1_3}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `src/task3_5' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 ...graphics[width=0.7\linewidth]{src/task3_5}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `src/task2_1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 ...graphics[width=0.7\linewidth]{src/task2_1}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[4]
+
+! LaTeX Error: File `src/task3_1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 ...raphics[width=0.7\linewidth]{src/task3_1}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `src/task3_2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 ...raphics[width=0.7\linewidth]{src/task3_2}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `src/task3_3' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 ...raphics[width=0.7\linewidth]{src/task3_3}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `src/task3_4' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 ...raphics[width=0.7\linewidth]{src/task3_4}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `src/task3_5' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133 ...raphics[width=0.7\linewidth]{src/task3_5}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[5]) [6]
 \openout2 = `design.aux'.
 
 
@@ -1307,27 +1486,30 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B6301CC2FFE81BFF6F4E21E0C3A28341;224.
+(rerunfilecheck)             Checksum: 5DE16622FDD4AA0AB418BCB0871002AE;630.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
  ) 
 Here is how much of TeX's memory you used:
- 37020 strings out of 480790
- 798067 string characters out of 2911284
+ 37229 strings out of 480790
+ 800601 string characters out of 2911284
  1178691 words of memory out of 3000000
- 52327 multiletter control sequences out of 15000+200000
+ 52508 multiletter control sequences out of 15000+200000
  536393 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,98p,724b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,6n,98p,944b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm207
 4.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
 1440.pk>
-Output written on main.pdf (5 pages, 84200 bytes).
+Output written on main.pdf (6 pages, 63634 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 47 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 230 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
