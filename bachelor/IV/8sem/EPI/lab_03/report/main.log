@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.16)  3 APR 2021 19:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.16)  7 APR 2021 09:29
 entering extended mode
 **./main.tex
 (main.tex
@@ -1106,8 +1106,15 @@ LaTeX Font Info:    No file T2Aptm.fd. on input line 23.
 LaTeX Font Warning: Font shape `T2A/ptm/m/n' undefined
 (Font)              using `T2A/cmr/m/n' instead on input line 23.
 
-(ref.aux) (intro.aux) (analytical.aux) (design.aux) (techn.aux) (exper.aux)
-(concl.aux) (biblist.aux) (supplement.aux))
+(ref.aux) (intro.aux) (analytical.aux
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:-' multiply defined.
+
+) (design.aux) (techn.aux) (exper.aux) (concl.aux) (biblist.aux)
+(supplement.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -1137,8 +1144,7 @@ Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box68
 Package hyperref Info: Link coloring OFF on input line 24.
-
-(C:\soft\MiKTeX\tex/latex/hyperref\nameref.sty
+ (C:\soft\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
 (C:\soft\MiKTeX\tex/latex/refcount\refcount.sty
@@ -1259,33 +1265,58 @@ No file intro.tex.
 \openout2 = `analytical.aux'.
 
 (analytical.tex
-<src/lab3_1_1.png, id=30, 395.67825pt x 305.943pt>
+<src/lab3_1_1.png, id=35, 395.67825pt x 305.943pt>
 File: src/lab3_1_1.png Graphic file (type png)
 <use src/lab3_1_1.png>
-Package pdftex.def Info: src/lab3_1_1.png  used on input line 26.
+Package pdftex.def Info: src/lab3_1_1.png  used on input line 38.
 (pdftex.def)             Requested size: 338.58632pt x 261.81271pt.
  [3
 
 
 
- <./src/lab3_1_1.png>]
-<src/lab3_2_1.png, id=47, 1238.37656pt x 526.21594pt>
+]
+<src/.png, id=56, 390.86024pt x 57.816pt>
+File: src/.png Graphic file (type png)
+<use src/.png>
+Package pdftex.def Info: src/.png  used on input line 46.
+(pdftex.def)             Requested size: 338.58632pt x 50.08511pt.
+<src/Снимок.png, id=57, 628.749pt x 99.9735pt>
+File: src/Снимок.png Graphic file (type png)
+<use src/Снимок.png>
+Package pdftex.def Info: src/Снимок.png  used on input line 52.
+(pdftex.def)             Requested size: 338.58632pt x 53.83842pt.
+<src/Художник до.png, id=58, 361.95226pt x 59.0205pt>
+File: src/Художник до.png Graphic file (type png)
+<use src/Художник до.png>
+Package pdftex.def Info: src/Художник до.png  used on input line 58.
+(pdftex.def)             Requested size: 338.58632pt x 55.21178pt.
+<src/Художник после.png, id=59, 249.3315pt x 35.53275pt>
+File: src/Художник после.png Graphic file (type png)
+<use src/Художник после.png>
+Package pdftex.def Info: src/Художник после.png  used on input lin
+e 64.
+(pdftex.def)             Requested size: 338.58632pt x 48.25609pt.
+ [4 <./src/lab3_1_1.png> <./src/.png> <./src/Снимок.png> <./src/Худо�
+�ник до.png> <./src/Художник после.png>]
+<src/lab3_2_1.png, id=74, 1238.37656pt x 526.21594pt>
 File: src/lab3_2_1.png Graphic file (type png)
 <use src/lab3_2_1.png>
-Package pdftex.def Info: src/lab3_2_1.png  used on input line 48.
+Package pdftex.def Info: src/lab3_2_1.png  used on input line 87.
 (pdftex.def)             Requested size: 338.58632pt x 143.87076pt.
- [4 <./src/lab3_2_1.png>]
-<src/lab3_3_2.png, id=58, 447.17062pt x 305.64188pt>
+
+[5 <./src/lab3_2_1.png>]
+<src/lab3_3_2.png, id=85, 447.17062pt x 305.64188pt>
 File: src/lab3_3_2.png Graphic file (type png)
 <use src/lab3_3_2.png>
-Package pdftex.def Info: src/lab3_3_2.png  used on input line 71.
+Package pdftex.def Info: src/lab3_3_2.png  used on input line 116.
 (pdftex.def)             Requested size: 338.58632pt x 231.42743pt.
-<src/lab3_3_3.png, id=59, 443.40656pt x 303.38344pt>
+<src/lab3_3_3.png, id=86, 443.40656pt x 303.38344pt>
 File: src/lab3_3_3.png Graphic file (type png)
 <use src/lab3_3_3.png>
-Package pdftex.def Info: src/lab3_3_3.png  used on input line 78.
+Package pdftex.def Info: src/lab3_3_3.png  used on input line 123.
 (pdftex.def)             Requested size: 338.58632pt x 231.68019pt.
-) [5 <./src/lab3_3_2.png> <./src/lab3_3_3.png>]
+ [6 <./src/lab3_3_2.png> <./src/lab3_3_3.png>])
+[7]
 \openout2 = `design.aux'.
 
 
@@ -1316,27 +1347,30 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B6301CC2FFE81BFF6F4E21E0C3A28341;224.
+(rerunfilecheck)             Checksum: 1DACE7EA0D960335EC7C12422D8F687D;347.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
  ) 
 Here is how much of TeX's memory you used:
- 37032 strings out of 480790
- 798025 string characters out of 2911284
- 1177691 words of memory out of 3000000
- 52343 multiletter control sequences out of 15000+200000
+ 37082 strings out of 480790
+ 798985 string characters out of 2911284
+ 1178691 words of memory out of 3000000
+ 52374 multiletter control sequences out of 15000+200000
  536393 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,7n,98p,724b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm207
 4.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
 1440.pk>
-Output written on main.pdf (5 pages, 226885 bytes).
+Output written on main.pdf (7 pages, 252854 bytes).
 PDF statistics:
- 170 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 217 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 500000)
+ 85 words of extra memory for PDF output out of 10000 (max. 10000000)
 
