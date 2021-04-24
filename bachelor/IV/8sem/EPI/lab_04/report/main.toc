@@ -2,4 +2,8 @@
 \contentsline {section}{\numberline {1.\relax }Описание и исходные данные}{3}%
 \contentsline {section}{\numberline {2.\relax }Ресурсы в проекте}{3}%
 \contentsline {section}{\numberline {3.\relax }Условия}{3}%
-\contentsline {section}{\numberline {4.\relax }Задание}{4}%
+\contentsline {subsection}{\numberline {3.1.\relax }Задача 1}{4}%
+\contentsline {subsection}{\numberline {3.2.\relax }Задача 2}{4}%
+\contentsline {subsection}{\numberline {3.3.\relax }Задача 3}{7}%
+\contentsline {subsection}{\numberline {3.4.\relax }Задача 4}{8}%
+\contentsline {subsection}{\numberline {3.5.\relax }Задача 5}{8}%

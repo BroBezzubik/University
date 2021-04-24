@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.16)  10 APR 2021 18:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.16)  20 APR 2021 14:42
 entering extended mode
 **./main.tex
 (main.tex
@@ -855,8 +855,15 @@ LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 6
  (C:\soft\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ) (ref.aux)
-(intro.aux) (analytical.aux) (design.aux) (techn.aux) (exper.aux) (concl.aux)
-(biblist.aux) (supplement.aux))
+(intro.aux) (analytical.aux
+
+LaTeX Warning: Label `fig:411' multiply defined.
+
+
+LaTeX Warning: Label `fig:412' multiply defined.
+
+) (design.aux) (techn.aux) (exper.aux) (concl.aux) (biblist.aux)
+(supplement.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
@@ -875,8 +882,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
-
-(C:\soft\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\soft\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count307
 \scratchdimen=\dimen275
@@ -924,7 +930,16 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 
 
 No file ref.tex.
-(main.toc)
+(main.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+ (C:\soft\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+
+(C:\soft\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -944,7 +959,8 @@ File: src/4_4.png Graphic file (type png)
 <use src/4_4.png>
 Package pdftex.def Info: src/4_4.png  used on input line 10.
 (pdftex.def)             Requested size: 241.49895pt x 304.24763pt.
- [3
+
+[3
 
 
 
@@ -957,9 +973,52 @@ Package pdftex.def Info: src/4_1_1.png  used on input line 37.
 <src/4_1_2.png, id=21, 412.54124pt x 143.03438pt>
 File: src/4_1_2.png Graphic file (type png)
 <use src/4_1_2.png>
-Package pdftex.def Info: src/4_1_2.png  used on input line 45.
+Package pdftex.def Info: src/4_1_2.png  used on input line 47.
 (pdftex.def)             Requested size: 241.49895pt x 83.73259pt.
-) [4 <./src/4_1_1.png> <./src/4_1_2.png>]
+<src/4_5.png, id=22, 548.80031pt x 334.24875pt>
+File: src/4_5.png Graphic file (type png)
+<use src/4_5.png>
+Package pdftex.def Info: src/4_5.png  used on input line 60.
+(pdftex.def)             Requested size: 241.49895pt x 147.08519pt.
+ [4 <./src/4_1_1.png> <./src/4_1_2.png>]
+<src/4_6.png, id=29, 548.80031pt x 334.24875pt>
+File: src/4_6.png Graphic file (type png)
+<use src/4_6.png>
+Package pdftex.def Info: src/4_6.png  used on input line 69.
+(pdftex.def)             Requested size: 241.49895pt x 147.08519pt.
+<src/4_7.png, id=30, 548.80031pt x 334.24875pt>
+File: src/4_7.png Graphic file (type png)
+<use src/4_7.png>
+Package pdftex.def Info: src/4_7.png  used on input line 75.
+(pdftex.def)             Requested size: 241.49895pt x 147.08519pt.
+ [5 <./src/4_5.png> <./src/4_6.png> <./src/4_7.png>]
+<src/4_8.png, id=37, 535.2497pt x 63.98906pt>
+File: src/4_8.png Graphic file (type png)
+<use src/4_8.png>
+Package pdftex.def Info: src/4_8.png  used on input line 87.
+(pdftex.def)             Requested size: 241.49895pt x 28.87096pt.
+<src/4_10.png, id=38, 1096.84781pt x 255.95625pt>
+File: src/4_10.png Graphic file (type png)
+<use src/4_10.png>
+Package pdftex.def Info: src/4_10.png  used on input line 112.
+(pdftex.def)             Requested size: 241.49895pt x 56.3535pt.
+<src/4_11.png, id=39, 741.52031pt x 464.4853pt>
+File: src/4_11.png Graphic file (type png)
+<use src/4_11.png>
+Package pdftex.def Info: src/4_11.png  used on input line 123.
+(pdftex.def)             Requested size: 241.49895pt x 151.26778pt.
+<src/4_12.png, id=40, 741.52031pt x 558.58687pt>
+File: src/4_12.png Graphic file (type png)
+<use src/4_12.png>
+Package pdftex.def Info: src/4_12.png  used on input line 129.
+(pdftex.def)             Requested size: 241.49895pt x 181.9136pt.
+ [6 <./src/4_8.png> <./src/4_10.png>]
+<src/4_13.png, id=46, 1215.79219pt x 654.94687pt>
+File: src/4_13.png Graphic file (type png)
+<use src/4_13.png>
+Package pdftex.def Info: src/4_13.png  used on input line 137.
+(pdftex.def)             Requested size: 241.49895pt x 130.08762pt.
+ [7 <./src/4_11.png> <./src/4_12.png>]) [8 <./src/4_13.png>]
 \openout2 = `design.aux'.
 
 
@@ -980,22 +1039,27 @@ No file biblist.tex.
 
 No file supplement.tex.
 (main.aux (title.aux) (ref.aux) (intro.aux) (analytical.aux) (design.aux)
-(techn.aux) (exper.aux) (concl.aux) (biblist.aux) (supplement.aux)) ) 
+(techn.aux) (exper.aux) (concl.aux) (biblist.aux) (supplement.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 27171 strings out of 480790
- 646666 string characters out of 2911284
- 1006845 words of memory out of 3000000
- 42677 multiletter control sequences out of 15000+200000
- 536339 words of font info for 29 fonts, out of 3000000 for 9000
+ 27277 strings out of 480790
+ 648053 string characters out of 2911284
+ 1007845 words of memory out of 3000000
+ 42760 multiletter control sequences out of 15000+200000
+ 539659 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,7n,98p,724b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users
-\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Us
-ers\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:
-\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk>
-Output written on main.pdf (4 pages, 103035 bytes).
+ <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx120
+0.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx
+1000.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
+abx1440.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\larm1000.pk>
+Output written on main.pdf (8 pages, 325355 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
+ 208 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 68 words of extra memory for PDF output out of 10000 (max. 10000000)
 
